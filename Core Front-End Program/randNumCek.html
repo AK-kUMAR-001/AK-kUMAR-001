@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>RANDOM NUMBER GUESSING GAME</title>
+</head>
+<body>
+<h2 style="color: rgb(23, 19, 8);">Guess the Exact Number to Win !<br></h2>
+<h3 style="color: rgb(147, 35, 1);">Enter the Number between 1 to 10</h3>
+<input type="number" id="num1" value="0" min="1" max="10" placeholder="Enter number here [1-10]" />
+<button onclick="check()">Check</button> <!-- only this triggers the check -->
+<br><br>
+<!-- The "Result" button just to display the answer -->
+<button id="res">Result</button>
+
+<script>
+    var randomnumber = Math.floor(Math.random() * 10) + 1;
+
+    function check() {
+        var input = document.getElementById("num1");
+        var resultBtn = document.getElementById("res");
+        var userinput = Number(input.value);
+
+        if (userinput == randomnumber) {
+            console.log("You guessed the correct number");
+            resultBtn.textContent = "Correct !";
+        } else if (userinput < 1 || userinput > 10 || isNaN(userinput)) {
+            console.log("Guess is out of range");
+            resultBtn.textContent = "Out of range!";
+        } else {
+            console.log("Wrong guess");
+            resultBtn.textContent = "Wrong!";
+        }
+    }
+</script>
+</body>
+</html>
