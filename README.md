@@ -1,8 +1,6 @@
 @ Welcome to Akshaya Kumaran's Tech Profile
 
-|==================================================|
-  |         🚀 SOFTWARE ENGINEERING INTERN        | 
-|==================================================|
+|===========🚀 SOFTWARE ENGINEERING INTERN  ===========
 
 👤 Candidate: P. Akshaya Kumaran  
 🎓 Current: B.Tech AI & ML | Rathinam Technical Campus  
