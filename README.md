@@ -8,16 +8,29 @@
 -----------------------------------------------------------
 
 Why Me?
-► Proficient in HTML, CSS, JS, JAVA, MySQL, Excel, Power BI  
+► Proficient in HTML, CSS, JS, JAVA, MySQL, Excel, and Power BI  
 ► Exposure to AWS (EC2, S3, Alarms) and DevOps basics  
 ► Trained in Product Ownership & Agile (Scrum Master)  
 ► Currently building skills in React.js  
 ► Currently building skills in Kotlin  
+► POWER-BI Analyst 
 
-MINI Projects That Talk (My first trial/attempt to test my knowledge by building the coding logic):
-► Created a Personal Portfolio [HTML/CSS]  
-► Calculator App [HTML/JS] – Functional model (CSS effects to be added)  
-► Bus Reservation System [Java] – Now have a strong understanding of OOP concepts  
+✅ MINI Projects That Talk (Proof of Learning by Doing)
+► Calculator App [HTML/CSS/JS]
+‣ Built a fully functional calculator using HTML, CSS, and JavaScript
+‣ Implemented logic for basic arithmetic operations and user input handling
+‣ Enhanced user experience with UI design (CSS transitions coming soon)
+
+► Bus Reservation System [Java]
+‣ Developed a console-based system to simulate bus ticket booking in Java
+‣ Applied Object-Oriented Programming concepts like classes, objects, and inheritance
+‣ Helped solidify Java fundamentals and logical thinking
+
+► Amazon Store Sales Dashboard [Power BI]
+‣ Created a sales analytics dashboard using Amazon store sales data (2019–2020)
+‣ Visualised KPIs: Sales by Category, Sub-Category, Segment, and Return Status
+‣ Utilised bar charts and pie charts to showcase key trends for better decision-making
+‣ Gained hands-on experience with Power BI interface, DAX basics, and report design
 
 Values I Bring
 ✔️ Curiosity-led development mindset – I’ve been serving students as a REPRESENTATIVE (Class Leader)  
